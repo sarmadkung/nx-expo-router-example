@@ -1,10 +1,11 @@
 {
   "expo": {
-    "name": "Undefined",
-    "slug": "undefined",
+    "name": "nx-expo-router-repo",
+    "slug": "nx-expo-router-repo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "scheme": "nx-expo-router-repo.com",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
